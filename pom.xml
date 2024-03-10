@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sita.task2</groupId>
-	<artifactId>file</artifactId>
+	<artifactId>SITA_TEST_TASK</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>file</name>
